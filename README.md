@@ -1,2 +1,13 @@
-# logistic_regression_from_scratch
-Building Logistic Regression from scratch
+# LOGISTIC REGRESSION FROM SCRATCH
+---
+
+- Picked up a sigmoid link function 
+- Calculated the log likelihood:
+Log likelihood can be viewed as a sum over all the training data point
+![log likelihood](Image Source) 
+
+- Building logistic regression function with gradient calculation
+![gradient ](Image Source) 
+
+- Calculating the accuracy from scratch
+- Plotting results
