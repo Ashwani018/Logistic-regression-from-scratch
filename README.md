@@ -13,3 +13,4 @@ Log likelihood can be viewed as a sum over all the training data point
 - Calculating the accuracy from scratch
 - Plotting results
 ![solved](https://raw.githubusercontent.com/sagarmk/logistic_regression_from_scratch/master/images/solved.png) 
+- **ACCURACY => 98**
